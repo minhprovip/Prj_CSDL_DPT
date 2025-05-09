@@ -1,13 +1,8 @@
 import cv2
-import numpy as np
-from matplotlib import pyplot as plt
 import sqlite3
 import os
 import pickle
-from PIL import Image
 from HamCanThiet import normalize_image, extract_color_histogram
-
-
 
 
 
